@@ -21,6 +21,7 @@ public class SeaCreature {
 
 	public String getName() {
 		return "My name is " + name;
+		System.out.println();
 	}
 
 	public void eat() {
